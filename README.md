@@ -1,3 +1,3 @@
 # Mein Projekt
-# LINK:
-# PROFILE
+LINK:
+PROFILE
